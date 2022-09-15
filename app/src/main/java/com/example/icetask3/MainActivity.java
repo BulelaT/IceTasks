@@ -78,6 +78,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             txtLocation.setText(address);
 
 
+
+
         }catch (Exception e){
             e.printStackTrace();
         }
